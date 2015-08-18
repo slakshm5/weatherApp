@@ -1,0 +1,1 @@
+Angular JS Single Page Application for weather forecasting
